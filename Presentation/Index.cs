@@ -145,7 +145,13 @@ namespace EntityFramework_Day3_Lab.Presentation
         {
             Sorting_and_Filter sorting_And_Filter = new Sorting_and_Filter(Id);
             sorting_And_Filter.ShowDialog();
-           
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Notification notification = new Notification(Id);
+            notification.ShowDialog();
         }
     }
 }

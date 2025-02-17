@@ -59,16 +59,17 @@
             comboBox4 = new ComboBox();
             button2 = new Button();
             label14 = new Label();
+            button5 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(80, 61);
+            dataGridView1.Location = new Point(148, 67);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(1083, 332);
+            dataGridView1.Size = new Size(1062, 332);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellClick += dataGridView1_CellClick;
             // 
@@ -359,11 +360,25 @@
             label14.TabIndex = 30;
             label14.Text = "Press here if you went to delete task";
             // 
+            // button5
+            // 
+            button5.BackColor = SystemColors.HotTrack;
+            button5.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button5.ForeColor = Color.AntiqueWhite;
+            button5.Location = new Point(994, 706);
+            button5.Name = "button5";
+            button5.Size = new Size(323, 48);
+            button5.TabIndex = 31;
+            button5.Text = "Press to show notify";
+            button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
+            // 
             // Index
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1442, 834);
+            Controls.Add(button5);
             Controls.Add(label14);
             Controls.Add(button4);
             Controls.Add(button3);
@@ -436,5 +451,6 @@
         private ComboBox comboBox4;
         private Button button2;
         private Label label14;
+        private Button button5;
     }
 }

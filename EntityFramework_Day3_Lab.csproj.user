@@ -4,6 +4,9 @@
     <Compile Update="Presentation\Index.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Presentation\Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Presentation\Register.cs">
       <SubType>Form</SubType>
     </Compile>
