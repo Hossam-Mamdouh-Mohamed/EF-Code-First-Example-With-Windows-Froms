@@ -287,3 +287,4 @@ D:\ITI Trainning\ITI Entity Framework & Linq\EntityFramework_Day3_Lab\EntityFram
 D:\ITI Trainning\ITI Entity Framework & Linq\EntityFramework_Day3_Lab\EntityFramework_Day3_Lab\obj\Debug\net8.0-windows\EntityFramework_Day3_Lab.genruntimeconfig.cache
 D:\ITI Trainning\ITI Entity Framework & Linq\EntityFramework_Day3_Lab\EntityFramework_Day3_Lab\obj\Debug\net8.0-windows\ref\EntityFramework_Day3_Lab.dll
 D:\ITI Trainning\ITI Entity Framework & Linq\EntityFramework_Day3_Lab\EntityFramework_Day3_Lab\obj\Debug\net8.0-windows\EntityFramework_Day3_Lab.Presentation.Sorting_and_Filter.resources
+D:\ITI Trainning\ITI Entity Framework & Linq\EntityFramework_Day3_Lab\EntityFramework_Day3_Lab\obj\Debug\net8.0-windows\EntityFramework_Day3_Lab.sourcelink.json

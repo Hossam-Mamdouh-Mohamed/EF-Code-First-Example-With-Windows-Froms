@@ -87,7 +87,7 @@
             // 
             button2.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button2.ForeColor = Color.Crimson;
-            button2.Location = new Point(452, 199);
+            button2.Location = new Point(452, 208);
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 5;
@@ -109,7 +109,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 23F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(558, 255);
+            ClientSize = new Size(558, 241);
             Controls.Add(label3);
             Controls.Add(button2);
             Controls.Add(textBox2);
