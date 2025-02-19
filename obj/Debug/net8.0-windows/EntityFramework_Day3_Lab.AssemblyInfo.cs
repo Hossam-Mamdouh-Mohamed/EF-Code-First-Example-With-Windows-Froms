@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityFramework_Day3_Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdc88c69601d11918e15a3df96a04c0135003c3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+087d335bd3817d4864d4d70eaa2e86b55a8f43f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityFramework_Day3_Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityFramework_Day3_Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
